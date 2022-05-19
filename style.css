@@ -1,0 +1,24 @@
+img {
+    width: 300px;
+    border: 5px solid rgb(137, 137, 253);
+    padding: 1.5px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.recipe-container {
+    width: 50%;
+    background-color: #72d9eb;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid rgb(8, 95, 110);
+    padding: 20px;
+    justify-content: center;
+
+}
+
+.recipe-title {
+    text-align: center;
+    background-color: aqua;
+    width: 300px;
+}
